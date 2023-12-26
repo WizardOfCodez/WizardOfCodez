@@ -1,26 +1,18 @@
 ## Hey, It's me, the Wiz! 🧙🏻‍♂️
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/WizardOfCodez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWizardOfCodez&screen_name=WizardOfCodez)
-
 ## I am a one-man army Full-Stack Web Developer 
 
 - 🚀 I do UX, UI, database, backend, frontend and everything that needs to be done to run a webapp 
 - ⚡ VSCode handles everything I throw at it
 - 🍎 Rocking an Apple M1 Pro
 - 🏠 Music for simple tasks, scented candles for heavier workload
-- 🗓️ Every day is planned
+- 🗓️ Day-Planning Addict
 - 🎓 Got a Bachelors Degree at Technical University
 
 ### Connect with me:
 
 <p align="left"> 
-<a href="https://www.twitter.com/WizardOfCodez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-&nbsp; 
-<a href="https://www.youtube.com/channel/UC4EZEIGTOURMkx88iI0uHfw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
-&nbsp;
-<a href="https://discord.gg/hpFjuMjY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-&nbsp;
-&nbsp;
+<a href="https://snort.social/npub19ypqelvt2qstcdtewylvg9x7ypy86yutmsk0l2wtk6w0vjtjafxqz2rfug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/WizardOfCodez/WizardOfCodez/main/nostr.png" width="32" height="32" /></a> 
 </p>
 
 ### Languages and Tools:
